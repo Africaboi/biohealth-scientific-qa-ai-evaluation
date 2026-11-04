@@ -7,13 +7,9 @@ This section contains scientifically rigorous questions designed to assess knowl
 ## Subject Areas
 
 1. Biochemistry
-2. Human Physiology
 3. Molecular Biology
 4. Microbiology
 5. Parasitology
-6. Pharmacology
-7. Immunology
-8. Public Health
 
 ## Assessment Format
 

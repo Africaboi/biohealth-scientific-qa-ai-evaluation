@@ -1,53 +1,51 @@
-# BioHealth Scientific QA & AI Evaluation
+# Advanced Scientific Question Bank
 
-### Biology and Health Science Expert Portfolio
+## Introduction
 
-## About This Project
+This section contains scientifically rigorous questions designed to assess subject knowledge, conceptual understanding, critical thinking, and scientific reasoning across four major areas of biological science.
 
-This project demonstrates my expertise in Biology, Biochemistry, and Health Sciences through scientific question development, critical evaluation of AI-generated answers, evidence-based research, and scientific explanation.
+## Areas of Scientific Coverage
 
-It focuses on assessing the accuracy, completeness, and reliability of scientific information to support the improvement of AI models.
+### 1. Biochemistry
+- Enzymology and enzyme kinetics
+- Carbohydrate, lipid and protein metabolism
+- Oxidative stress and antioxidant defence
+- Bioenergetics and cellular respiration
+- Clinical and nutritional biochemistry
+- Biochemical mechanisms of disease
 
-## Areas of Scientific Expertise
+### 2. Molecular Biology
+- DNA replication and repair
+- Transcription and translation
+- Gene expression and regulation
+- Molecular genetics
+- PCR and molecular diagnostic techniques
+- Recombinant DNA technology
 
-- Biochemistry
-- Molecular Biology
-- Microbiology
-- Parasitology
+### 3. Microbiology
+- Bacteriology
+- Mycology
+- Microbial physiology and metabolism
+- Microbial genetics
+- Antimicrobial resistance
+- Host-microorganism interactions
 
-## Project Objectives
+### 4. Parasitology
+- Medical parasitology
+- Malaria parasite biology
+- Parasite life cycles
+- Host-parasite interactions
+- Antiparasitic drug mechanisms
+- Laboratory diagnosis of parasitic infections
 
-1. Develop advanced scientific questions and assessment exercises.
-2. Evaluate AI-generated scientific answers for accuracy and completeness.
-3. Identify scientific errors, misconceptions, and unsupported claims.
-4. Verify scientific information using credible research publications.
-5. Provide detailed scientific explanations and answer rationales.
-6. Develop a systematic framework for evaluating AI-generated scientific content.
+## Assessment Formats
 
-## Project Components
+- Advanced multiple-choice questions
+- Mechanism-based questions
+- Application-based scientific questions
+- Experimental data interpretation
+- Research-based scientific questions
 
-- Advanced Scientific Question Bank
-- AI-Generated Answer Evaluation
-- Evidence-Based Scientific Verification
-- Detailed Scientific Explanations
-- Scientific Quality Assurance and Evaluation Rubric
+## Project Purpose
 
-## Scientific Reference Sources
-
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-- [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/)
-- [World Health Organization](https://www.who.int/)
-- [Centers for Disease Control and Prevention](https://www.cdc.gov/)
-- Peer-reviewed scientific journals and authoritative textbooks.
-
-## Author
-
-**Atanda Jamiu**
-
-Biochemistry Researcher | Biology and Health Sciences | Scientific Research and Evaluation
-
-## Project Status
-
-In Development
-
-This is an independent scientific portfolio project demonstrating my ability to develop, evaluate, verify, and explain scientific information accurately.
+To develop high-quality scientific questions that assess biological knowledge, analytical reasoning, and the ability of AI models to interpret and explain complex scientific concepts accurately.

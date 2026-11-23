@@ -14,7 +14,7 @@ This section contains scientifically rigorous questions designed to assess subje
 - Antimicrobial resistance
 - Host-microorganism interactions
 
-- ### 2. Molecular Biology
+### 2. Molecular Biology
 - DNA replication and repair
 - Transcription and translation
 - Gene expression and regulation

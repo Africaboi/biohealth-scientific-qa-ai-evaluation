@@ -5,9 +5,9 @@
 
 This section demonstrates the systematic evaluation of AI-generated scientific answers across four subject areas:
 
-1. Biochemistry
+1. Microbiology
 2. Molecular Biology
-3. Microbiology
+3. Biochemistry
 4. Parasitology
 
 The objective is to assess the scientific accuracy, reasoning, completeness, clarity, and reliability of AI-generated responses.

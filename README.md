@@ -6,15 +6,15 @@ This section contains scientifically rigorous questions designed to assess subje
 
 ## Areas of Scientific Coverage
 
-### 1. Biochemistry
-- Enzymology and enzyme kinetics
-- Carbohydrate, lipid and protein metabolism
-- Oxidative stress and antioxidant defence
-- Bioenergetics and cellular respiration
-- Clinical and nutritional biochemistry
-- Biochemical mechanisms of disease
+### 1. Microbiology
+- Bacteriology
+- Mycology
+- Microbial physiology and metabolism
+- Microbial genetics
+- Antimicrobial resistance
+- Host-microorganism interactions
 
-### 2. Molecular Biology
+- ### 2. Molecular Biology
 - DNA replication and repair
 - Transcription and translation
 - Gene expression and regulation
@@ -22,13 +22,13 @@ This section contains scientifically rigorous questions designed to assess subje
 - PCR and molecular diagnostic techniques
 - Recombinant DNA technology
 
-### 3. Microbiology
-- Bacteriology
-- Mycology
-- Microbial physiology and metabolism
-- Microbial genetics
-- Antimicrobial resistance
-- Host-microorganism interactions
+### 3. Biochemistry
+- Enzymology and enzyme kinetics
+- Carbohydrate, lipid and protein metabolism
+- Oxidative stress and antioxidant defence
+- Bioenergetics and cellular respiration
+- Clinical and nutritional biochemistry
+- Biochemical mechanisms of disease
 
 ### 4. Parasitology
 - Medical parasitology

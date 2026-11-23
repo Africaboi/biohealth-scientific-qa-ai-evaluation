@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This section contains scientifically rigorous questions designed to assess knowledge, conceptual understanding, critical thinking, and scientific reasoning across Biology and Health Sciences.
+This section contains scientifically rigorous questions designed to assess knowledge, conceptual understanding, critical thinking, and scientific reasoning across Biology and related areas.
 
 ## Subject Areas
 
-1. Biochemistry
+1. Microbiology
 3. Molecular Biology
-4. Microbiology
+4. Biochemistry
 5. Parasitology
 
 ## Assessment Format
